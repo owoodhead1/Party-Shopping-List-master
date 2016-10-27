@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> NAZIA SMELLS </title>
+</head>
+<body> THIS IS ALL ABOUT NAZIA </body>
+</html>
